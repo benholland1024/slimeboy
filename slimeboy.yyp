@@ -343,6 +343,25 @@
             }
         },
         {
+            "Key": "83a81c1d-bac7-42f6-83b4-c0447570414c",
+            "Value": {
+                "id": "d8aa4da0-b797-43b5-aa22-622682216be9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_player_back\/spr_player_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "852565bd-36e0-4362-bef3-df09eedeff2e",
             "Value": {
                 "id": "125bbed1-2f7c-455d-9381-cdea31e009a1",
