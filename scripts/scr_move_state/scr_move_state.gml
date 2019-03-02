@@ -31,5 +31,9 @@ if (len == 0) {
 }
 // Vertical sprites
 if (vspd > 0) {
-	sprite_index = spr_player;
+	sprite_index = spr_player_down;
+}
+
+if (hspd < 0) {
+	sprite_index = spr_player_left;
 }
