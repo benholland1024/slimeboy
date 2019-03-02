@@ -36,4 +36,6 @@ if (vspd > 0) {
 
 if (hspd < 0) {
 	sprite_index = spr_player_left;
+} else if (hspd > 0) {
+	sprite_index = spr_player_right;
 }
