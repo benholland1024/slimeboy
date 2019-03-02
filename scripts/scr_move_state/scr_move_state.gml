@@ -23,3 +23,13 @@ vspd = lengthdir_y(len, dir);
 //move the player
 phy_position_x += hspd;
 phy_position_y += vspd;
+
+// Adding Sprite
+image_speed = 1;
+if (len == 0) {
+	image_index = 0;
+}
+// Vertical sprites
+if (vspd > 0) {
+	sprite_index = spr_player;
+}
