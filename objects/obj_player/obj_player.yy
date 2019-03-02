@@ -38,35 +38,56 @@
     "physicsObject": true,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 1,
+    "physicsShape": 2,
     "physicsShapePoints": [
         {
-            "id": "0f37ee73-6b41-49de-ab55-ad8a63104803",
+            "id": "9a7930ff-5106-4fb3-bad0-1ec6c3866cb1",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 0,
-            "y": 0
+            "x": 28.4948254,
+            "y": 17.8775768
         },
         {
-            "id": "7d6e9213-534e-44cd-b4f2-1758e7bde99c",
+            "id": "bd62cb8c-0bde-4180-a2d6-63f30c29b186",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 32,
-            "y": 0
+            "x": 28.27452,
+            "y": 20.772522
         },
         {
-            "id": "82ad6134-84c7-4f59-a6b2-112f5e55a4fe",
+            "id": "783e3918-e176-4e17-b096-5ed2ff458b1a",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 32,
-            "y": 32
+            "x": 24.10578,
+            "y": 22.0356369
         },
         {
-            "id": "bf625717-780a-4aa3-8f8b-7b400e082b33",
+            "id": "23cc6e29-5821-4db9-a8a6-8f0134ca6834",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 0,
-            "y": 32
+            "x": 8.379332,
+            "y": 23.0356369
+        },
+        {
+            "id": "d146f7d5-b2ad-4fc8-95de-f15cfa657507",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 1.49639058,
+            "y": 22.0249939
+        },
+        {
+            "id": "6c3fd9b8-7b7f-4f13-821e-3b41cd26cb5b",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 7.38997459,
+            "y": 17.22562
+        },
+        {
+            "id": "c08899a1-ebd8-4858-b744-3befdce09cc4",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 23.7167358,
+            "y": 16.5310974
         }
     ],
     "physicsStartAwake": true,

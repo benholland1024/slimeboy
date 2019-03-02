@@ -9,4 +9,4 @@ dir = 0;
 
 scr_get_input();
 
-state =  scr_move_state;
+state = scr_move_state;
