@@ -12,6 +12,16 @@ dir = point_direction(x, y, playerRef.x, playerRef.y);
 hspd = lengthdir_x(spd, dir);
 vspd = lengthdir_y(spd, dir);
 
+if (shocked) {
+	sprite_index = basicbot_shocked;
+	shockedTimer--;
+	if (shockedTimer <= 0) {
+		instance_destroy();
+	}
+	return;
+}
+
+
 // This changes the sprite. Note that we do this even when we're inside the follow distance,
 // to keep basic bot's eye on slimey!
 if (hspd < 0) {
