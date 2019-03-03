@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "26e5804f-9ab7-436b-b7de-4dd7f9af6943",
+            "Value": {
+                "id": "b8ad8eef-deba-4c31-9599-946c2c7d6686",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/basic_bot_ai1\/basic_bot_ai1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "34e06140-f0cd-4117-8c75-131e192a74f9",
             "Value": {
                 "id": "9f2188ee-c324-4e52-855a-9b34e0c43e3a",
@@ -188,6 +207,25 @@
                 ],
                 "resourcePath": "views\/3ad005d8-5688-48ba-b23b-dfea6540a2aa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3b4bc6c4-235f-46d1-8440-e3ab307a9311",
+            "Value": {
+                "id": "18abe218-7a54-45e6-a618-e0db30e0bc1e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_basicbot\/obj_basicbot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -229,6 +267,25 @@
             }
         },
         {
+            "Key": "4d0ea99a-7713-4040-864c-81a12aaa3d34",
+            "Value": {
+                "id": "14ee7137-053f-44f2-bc45-3b5f5aedcc7d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/4d0ea99a-7713-4040-864c-81a12aaa3d34.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6160a0f5-cbcd-47ed-9840-f2497947318b",
             "Value": {
                 "id": "228cd5c9-8c58-427c-a2a5-e96084f76c02",
@@ -245,6 +302,25 @@
                 ],
                 "resourcePath": "views\/6160a0f5-cbcd-47ed-9840-f2497947318b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "688a1bdc-240f-4d2a-93f4-28cc530799b9",
+            "Value": {
+                "id": "79f3d178-9347-446c-a5d0-8e8e89ab0a0c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_player_duck\/spr_player_duck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -590,6 +666,25 @@
             }
         },
         {
+            "Key": "e7e800dd-0a76-452c-a4d9-35d183240573",
+            "Value": {
+                "id": "27d6af1b-b4a2-43f9-9419-aca0f0395a19",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/basicbot_walk\/basicbot_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea18e964-9f5d-4879-90ff-f1c05f1d8e4a",
             "Value": {
                 "id": "11ffd019-318a-4c58-a89f-ee8cb824d8e6",
@@ -649,7 +744,8 @@
     ],
     "script_order": [
         "852565bd-36e0-4362-bef3-df09eedeff2e",
-        "34e06140-f0cd-4117-8c75-131e192a74f9"
+        "34e06140-f0cd-4117-8c75-131e192a74f9",
+        "26e5804f-9ab7-436b-b7de-4dd7f9af6943"
     ],
     "tutorial": ""
 }
