@@ -1,13 +1,14 @@
 //initializes the player
 event_inherited();
 
-spd = 2;
+spd = 2.5;
 hspd = 0;
 vspd = 0;
 len = 0;
 dir = 0;
 
-health = 4;
+max_health = 4;
+health = max_health;
 
 invincibleTimer = 0;		// keep at 0
 invincibleTime = 100;		// this changes how long you're invincible

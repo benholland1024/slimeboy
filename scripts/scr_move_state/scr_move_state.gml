@@ -72,7 +72,8 @@ if (hspd < 0) {
 }
 
 // Slime drops:
-if (slimeDropKey and slimeDropBuffer <= 0) {
+if (slimeDropKey and slimeDropBuffer <= 0 and health > 0.2) {
+	health -= 0.1;
 	instance_create_depth(x,y,1,slime_drop);
 	slimeDropBuffer = slimeDropFrequency;
 } else {
