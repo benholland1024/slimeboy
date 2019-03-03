@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "191592ff-133c-4a65-877d-011ac609f4de",
+            "Value": {
+                "id": "f02ceccc-f6b2-4b89-a5c7-3a2d50ab172c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_dark_floor\/spr_dark_floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "20c177ec-8c90-4d9d-84af-786a16daae12",
             "Value": {
                 "id": "ed6499ae-dbd4-410c-8720-7ee69ebbf68f",
@@ -359,6 +378,25 @@
                 ],
                 "resourcePath": "views\/6c2dfeed-f7f3-4f8a-b418-d4472c6ce54f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "706adc58-544e-4694-85ed-1167ebcb2206",
+            "Value": {
+                "id": "7dceada8-1fe7-43ea-af33-11cc8f083f05",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_light_floor\/spr_light_floor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
