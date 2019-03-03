@@ -1,7 +1,7 @@
 //initializes the player
 event_inherited();
 
-spd = 2;
+spd = 2.5;
 hspd = 0;
 vspd = 0;
 len = 0;
