@@ -44,11 +44,9 @@ if (hspd < 0) {
 }
 
 // Slime drops:
-if (len != 0) {
-	if (slimeDropBuffer >= slimeDropFrequency) {
-		instance_create_depth(x,y,1,slime_drop);
-		slimeDropBuffer = 0;
-	} else {
-		slimeDropBuffer++;
-	}
+if (slimeDropKey and slimeDropBuffer <= 0) {
+	instance_create_depth(x,y,1,slime_drop);
+	slimeDropBuffer = slimeDropFrequency;
+} else {
+	slimeDropBuffer--
 }

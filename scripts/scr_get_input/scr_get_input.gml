@@ -3,4 +3,4 @@ leftKey = keyboard_check(vk_left);
 upKey = keyboard_check(vk_up);
 downKey = keyboard_check(vk_down);
 
-duckKey = keyboard_check(vk_space);
+slimeDropKey = keyboard_check(vk_space);
