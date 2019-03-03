@@ -8,7 +8,8 @@
         "88634b12-3847-4c54-b400-28974b45aea9",
         "83a81c1d-bac7-42f6-83b4-c0447570414c",
         "15a7957a-5eb2-4234-8423-eb667a21f578",
-        "f7724f9f-2e68-4d6e-90d5-1371c11ce66a"
+        "f7724f9f-2e68-4d6e-90d5-1371c11ce66a",
+        "99b49183-57b8-4203-8ddf-019ca1678134"
     ],
     "filterType": "GMSprite",
     "folderName": "slimeboy",
