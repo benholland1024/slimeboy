@@ -26,8 +26,10 @@ phy_position_y += vspd;
 
 // Detecting what sprite animation to use
 image_speed = 1;
-if (len == 0) {
+if (len == 0 and health > 0) {
 	image_index = 0;
+} else if health <= 0 {
+	len = 0;
 }
 
 // Handling death/invincibility
