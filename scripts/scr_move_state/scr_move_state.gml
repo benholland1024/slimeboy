@@ -24,7 +24,7 @@ vspd = lengthdir_y(len, dir);
 phy_position_x += hspd;
 phy_position_y += vspd;
 
-// Adding Sprite
+// Detecting what sprite animation to use
 image_speed = 1;
 if (len == 0) {
 	image_index = 0;
@@ -36,8 +36,17 @@ if (vspd > 0) {
 	sprite_index = spr_player_back;
 }
 
+// Horizontal sprites
 if (hspd < 0) {
 	sprite_index = spr_player_left;
 } else if (hspd > 0) {
 	sprite_index = spr_player_right;
+}
+
+// Slime drops:
+if (slimeDropKey and slimeDropBuffer <= 0) {
+	instance_create_depth(x,y,1,slime_drop);
+	slimeDropBuffer = slimeDropFrequency;
+} else {
+	slimeDropBuffer--
 }

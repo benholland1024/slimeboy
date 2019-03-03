@@ -20,10 +20,14 @@ if (hspd < 0) {
 	sprite_index = basicbot_walk_right;
 }
 
-// This only gets called if we're beyond our following distance
-if (totalDistance > followDistance) {
+// Handling being stuck:
+if (stuck) {
+	sprite_index = basic_bot_stuck;
+//Handling moving, if we're far enough:
+} else if (totalDistance > followDistance) {
 	phy_position_x += hspd;
 	phy_position_y += vspd;
 } else {
 	image_index = 0;
 }
+
