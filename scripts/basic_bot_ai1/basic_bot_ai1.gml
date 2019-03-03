@@ -17,6 +17,7 @@ if (shocked) {
 	shockedTimer--;
 	if (shockedTimer <= 0) {
 		instance_destroy();
+		instance_create_depth(x,y,-1000,obj_win_screen);
 	}
 	return;
 }
