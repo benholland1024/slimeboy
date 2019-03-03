@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "2164fd04-58d4-4927-a775-2948d1bfe34e",
+            "Value": {
+                "id": "926753af-d366-451b-8897-c8e00c94815b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_door_tiles\/spr_door_tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2355d91f-705c-41c7-8a92-c4a4c8445282",
             "Value": {
                 "id": "7605b15a-e1f1-4e37-9ac0-77e7a9b9907c",
@@ -378,6 +397,25 @@
                 ],
                 "resourcePath": "views\/431e7b1a-aa92-46e6-973f-ee91b98751bc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47246d73-eeed-49be-b6f5-cf7e3acb05c6",
+            "Value": {
+                "id": "0297268d-2634-4748-ac1a-df15c4cb4c77",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tl_door_tiles\/tl_door_tiles.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {

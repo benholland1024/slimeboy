@@ -38,7 +38,7 @@ if (place_meeting(x, y, obj_shock_floor_on) and !invincible) {
 	if health <= 0 {
 		sprite_index = spr_player_normal_death;
 		invincible = false;
-		if (image_index > 25) {
+		if (image_index > 23) {
 			room_restart();
 		}
 	}

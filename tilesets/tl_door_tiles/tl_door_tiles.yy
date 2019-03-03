@@ -1,8 +1,8 @@
 {
-    "id": "fc81fa2e-09c1-4465-b27e-4a06bbbd5f18",
+    "id": "47246d73-eeed-49be-b6f5-cf7e3acb05c6",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tl_lab_tileset",
+    "name": "tl_door_tiles",
     "auto_tile_sets": [
         
     ],
@@ -14,10 +14,10 @@
             
         ]
     },
-    "out_columns": 5,
+    "out_columns": 3,
     "out_tilehborder": 2,
     "out_tilevborder": 2,
-    "spriteId": "1a214ae7-99cf-4cdd-a6b1-715f507119ff",
+    "spriteId": "2164fd04-58d4-4927-a775-2948d1bfe34e",
     "sprite_no_export": true,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "tile_animation": {
@@ -32,21 +32,7 @@
             6,
             7,
             8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
+            9
         ],
         "SerialiseFrameCount": 1
     },
@@ -54,7 +40,7 @@
         
     ],
     "tile_animation_speed": 15,
-    "tile_count": 24,
+    "tile_count": 10,
     "tileheight": 32,
     "tilehsep": 0,
     "tilevsep": 0,
