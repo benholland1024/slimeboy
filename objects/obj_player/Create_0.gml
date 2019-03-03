@@ -7,6 +7,7 @@ vspd = 0;
 len = 0;
 dir = 0;
 
+
 slimeDropBuffer = 0;		// Tracks how long before next slime drop. Keep this initialized at 0
 slimeDropFrequency = 30;	// Lower this to drop slimes more lol
 
