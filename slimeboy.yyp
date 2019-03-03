@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "47c6fdbd-20fb-4a1e-9437-6ed59c467b3a",
+            "Value": {
+                "id": "1131ae1b-d99c-4c02-a10c-73a67b1d373d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/basicbot_walk_right\/basicbot_walk_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d0ea99a-7713-4040-864c-81a12aaa3d34",
             "Value": {
                 "id": "14ee7137-053f-44f2-bc45-3b5f5aedcc7d",
@@ -680,7 +699,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/basicbot_walk\/basicbot_walk.yy",
+                "resourcePath": "sprites\/basicbot_walk_left\/basicbot_walk_left.yy",
                 "resourceType": "GMSprite"
             }
         },

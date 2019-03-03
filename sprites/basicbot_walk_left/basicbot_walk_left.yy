@@ -2,7 +2,7 @@
     "id": "e7e800dd-0a76-452c-a4d9-35d183240573",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "basicbot_walk",
+    "name": "basicbot_walk_left",
     "For3D": false,
     "HTile": false,
     "VTile": false,
