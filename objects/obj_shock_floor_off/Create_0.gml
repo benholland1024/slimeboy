@@ -1,0 +1,1 @@
+//initializes the disabled shock floor
