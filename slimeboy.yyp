@@ -799,25 +799,6 @@
             }
         },
         {
-            "Key": "88d7b57c-6f89-47ec-9f03-c4d54c3c1143",
-            "Value": {
-                "id": "d804f153-e625-46a8-9872-91b31cf4ead6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_win_screen\/obj_win_screen.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8acbfcde-8c19-40b1-926e-468a627fd0dc",
             "Value": {
                 "id": "9dbb4340-c637-47b4-8e82-cf3ef6ba917f",
