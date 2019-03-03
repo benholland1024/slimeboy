@@ -324,6 +324,25 @@
             }
         },
         {
+            "Key": "3d3e2fe2-0c4b-454d-ba8b-e44960ff160a",
+            "Value": {
+                "id": "2ffa0cc7-9a09-4d84-a40e-4e2fd0a4127d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_player_normal_death\/spr_player_normal_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e23f6ad-c89c-4a61-9e8a-a07b4051cf79",
             "Value": {
                 "id": "95794a5b-27f7-44da-8222-d4370bbc1a89",
