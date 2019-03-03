@@ -1065,25 +1065,6 @@
             }
         },
         {
-            "Key": "cb415cda-264a-4280-bb9a-a5869d59b6b3",
-            "Value": {
-                "id": "0e3051d1-45a6-4933-b08f-066a0fbdb9a8",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_desk_collision\/obj_desk_collision.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "224da51f-ac4d-4d93-b170-71ae786e6d17",
