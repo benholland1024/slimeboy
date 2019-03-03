@@ -9,6 +9,8 @@ dir = 0;
 
 max_health = 4;
 health = max_health;
+healthRefillTime = 200;
+healthRefillCounter = healthRefillTime;
 
 invincibleTimer = 0;		// keep at 0
 invincibleTime = 100;		// this changes how long you're invincible
