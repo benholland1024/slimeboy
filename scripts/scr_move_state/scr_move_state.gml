@@ -10,7 +10,7 @@ var yaxis = (downKey - upKey);
 dir = point_direction(0, 0, xaxis, yaxis);
 
 //get the length of movement
-if (xaxis == 0 and yaxis == 0) {
+if ((xaxis == 0 and yaxis == 0) or health <= 0) {
 	len = 0;
 } else { 
 	len = spd;
@@ -28,8 +28,6 @@ phy_position_y += vspd;
 image_speed = 1;
 if (len == 0 and health > 0) {
 	image_index = 0;
-} else if health <= 0 {
-	len = 0;
 }
 
 // Handling death/invincibility
@@ -40,7 +38,9 @@ if (place_meeting(x, y, obj_shock_floor_on) and !invincible) {
 	if health <= 0 {
 		sprite_index = spr_player_normal_death;
 		invincible = false;
-		return;
+		if (image_index > 25) {
+			room_restart();
+		}
 	}
 }
 
