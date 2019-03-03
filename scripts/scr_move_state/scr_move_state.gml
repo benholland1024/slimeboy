@@ -29,6 +29,32 @@ image_speed = 1;
 if (len == 0) {
 	image_index = 0;
 }
+
+// Handling death/invincibility
+if (place_meeting(x, y, obj_shock_floor_on) and !invincible) {
+	health--;
+	invincible = true;
+	invincibleTimer = invincibleTime;
+	if health <= 0 {
+		sprite_index = spr_player_normal_death;
+		invincible = false;
+		return;
+	}
+}
+
+if (invincible) {
+	invincibleTimer--;
+	if (invincibleTimer <= 0) {
+		invincible = false;
+	}
+	if (invincibleTimer % 6) {
+		image_alpha = 0;
+	} else {
+		image_alpha = 1;
+	}
+}
+
+
 // Vertical sprites
 if (vspd > 0) {
 	sprite_index = spr_player_down;
