@@ -666,6 +666,25 @@
             }
         },
         {
+            "Key": "91fea2d1-d3e2-47cf-b241-ce67360c7d1a",
+            "Value": {
+                "id": "02901d68-59fb-4da4-ad53-aa7056c65281",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_lab_equip_tiles\/spr_lab_equip_tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "97f81816-7cf6-486e-b0c2-e60d38e158f5",
             "Value": {
                 "id": "6170173d-247c-42bf-a9a6-1efd98c1a8f7",
@@ -720,6 +739,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a943f98a-829c-475b-a431-5f41731934b8",
+            "Value": {
+                "id": "63ece42d-1d67-421d-a00a-ac898f2d2ae2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tl_lab_equip_tiles\/tl_lab_equip_tiles.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
