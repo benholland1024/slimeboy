@@ -2,6 +2,11 @@
 
 scr_get_input();
 
+if (dashKey) {
+	state = scr_dash_state;
+	alarm[0] = room_speed/8;
+}
+
 // get the axis of movement
 var xaxis = (rightKey - leftKey);
 var yaxis = (downKey - upKey);

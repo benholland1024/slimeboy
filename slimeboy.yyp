@@ -552,6 +552,25 @@
             }
         },
         {
+            "Key": "64d74e7b-4f1a-48d4-aedd-7c73d97e2ad1",
+            "Value": {
+                "id": "e2d31f86-d6e2-4356-a07d-94b2fd1664f7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_dash_effect\/obj_dash_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "688a1bdc-240f-4d2a-93f4-28cc530799b9",
             "Value": {
                 "id": "79f3d178-9347-446c-a5d0-8e8e89ab0a0c",
@@ -1138,6 +1157,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0c1d197-89df-4948-8008-236f8254dc5f",
+            "Value": {
+                "id": "7dd08ef6-3928-4854-9d89-ca0ca448d929",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_dash_state\/scr_dash_state.yy",
+                "resourceType": "GMScript"
             }
         },
         {
